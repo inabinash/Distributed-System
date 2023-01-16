@@ -1,0 +1,4 @@
+*Problem Statement*
+Design a network topology of arbitrary nodes (Star topology , Ring topology , Tree topology ) . Determine the adjacency list ,matrix, and the degree of nodes .
+
+
