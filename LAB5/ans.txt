@@ -1,1 +1,3 @@
-djiuhfdihfd
+Conducted : 06/02/2022
+
+In this lab socket programming was done diifferent algorithms implememnted at server side and results were sent to the client side , like sort the array , find the sum of elements in the arrray and idempotetion of an array .
